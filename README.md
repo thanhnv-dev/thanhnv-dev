@@ -9,15 +9,14 @@ I'm a Mobile Developer specializing in React Native and sometimes also developin
 ### Programming languages
 ![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
 ![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
-![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=0175C2&color=white)
+![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=white&color=0175C2)
 
 ### Frameworks
 ![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
-![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=02569B)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=02569B)
 
 ### Tools
 ![VSCode logo](https://img.shields.io/badge/VS%20Code-informational?logo=visual-studio-code&logoColor=white&style=flat)
-![Webstorm logo](https://img.shields.io/badge/Webstorm-informational?logo=webstorm&logoColor=white&style=flat)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=androidstudio&logoColor=3ddc84&color=132e3d)
 ![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
 ![Git](https://img.shields.io/badge/git-informational?logo=Git&logoColor=F05032&style=flat)
@@ -25,7 +24,7 @@ I'm a Mobile Developer specializing in React Native and sometimes also developin
 ![Figma](https://img.shields.io/badge/Figma-informational?style=flat&logo=figma&logoColor=white)
 
 ## 📈 Github Stats
-<a href="https://github.com/andyngojs" title="ThanhNV-Dev">
+<a href="https://github.com/thanhnv-dev" title="ThanhNV-Dev">
     <img src="https://github-readme-stats.vercel.app/api?username=thanhnv-dev&show_icons=true&hide_border=true" alt="ThanhNV-Dev's Github stats" />
 </a>
 
