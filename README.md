@@ -12,7 +12,7 @@ I'm a Mobile Developer.
 
 ### Frameworks
 ![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
-![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=02569B)
+![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=5BC2F1)
 
 ### Tools
 ![VSCode logo](https://img.shields.io/badge/VS%20Code-informational?logo=visual-studio-code&logoColor=white&style=flat)
