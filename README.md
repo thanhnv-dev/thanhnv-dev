@@ -13,7 +13,7 @@ I'm a Mobile Developer.
 
 ### Frameworks
 ![Flutter](https://img.shields.io/badge/Flutter-information?style=for-the-badge&logo=flutter&logoColor=02569B&color=white)
-![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=for-the-badge)
+![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=for-the-badge&color=white)
 
 ![Express](https://img.shields.io/badge/Express.JS-information?style=for-the-badge&logo=express&logoColor=02569B&color=white)
 
