@@ -12,8 +12,9 @@ I'm a Mobile Developer.
 ![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=5BC2F1&color=0175C2)
 
 ### Frameworks
-![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=flat)
-![Flutter](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=5BC2F1)
+![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-information?style=for-the-badge&logo=flutter&logoColor=02569B&color=white)
+
 
 ### Tools
 ![VSCode logo](https://img.shields.io/badge/VS%20Code-informational?logo=visual-studio-code&logoColor=white&style=flat)
@@ -28,4 +29,5 @@ I'm a Mobile Developer.
     <img src="https://github-readme-stats.vercel.app/api?username=thanhnv-dev&show_icons=true&hide_border=true" alt="Thành Nguyễn's Github stats" />
 </a>
 
-<a href="https://app.daily.dev/thanhnv_dev"><img src="https://api.daily.dev/devcards/ee2fbf85c7a74b789076135818a63bfd.png?r=wm5" width="400" alt="Thành Nguyễn's Dev Card"/></a>
+### ![daily.dev](https://img.shields.io/badge/Daily.dev-information?style=social&logo=dailydotdev&logoColor=CE3DF3)
+<a href="https://app.daily.dev/thanhnv"><img src="https://api.daily.dev/devcards/v2/d76rcp8yobGD7bvUlOr5L.png?r=4at&type=default" width="356" alt="Thanh Nguyen's Dev Card"/></a>
