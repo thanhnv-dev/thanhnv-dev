@@ -1,8 +1,6 @@
+[![Viewer](https://komarev.com/ghpvc/?username=thanhnv-dev&color=1A8FE3&style=flat)](https://github.com/thanhnv-dev)
 ### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ### I'm Thành Nguyễn (thanhnv-dev)
-
-[![Viewer](https://komarev.com/ghpvc/?username=thanhnv-dev&color=1A8FE3&style=flat)](https://github.com/thanhnv-dev)
-
 I'm a Mobile Developer.
 
 ## 🛠️ Skills & Expertise
