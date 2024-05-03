@@ -8,11 +8,11 @@
 
 [![Programming languages](https://skillicons.dev/icons?i=dart,js,ts)](https://skillicons.dev)
 
-[![Frameworks](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=flutter,react&theme=light)](https://skillicons.dev)
 
 [![Frameworks 2](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,firebase,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,firebase,figma&theme=light)](https://skillicons.dev)
 
 <!-- ## 🌱 Currently Exploring
 
