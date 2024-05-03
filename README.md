@@ -1,37 +1,46 @@
-[![Viewer](https://komarev.com/ghpvc/?username=thanhnv-dev&color=1A8FE3&style=flat)](https://github.com/thanhnv-dev)
-### Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-### I'm Thành Nguyễn (thanhnv-dev)
-I'm a Mobile Developer.
+# Hi, I'm Thanh Nguyen! 👋
 
-## 🛠️ Skills & Expertise
-### Programming languages
-![](https://img.shields.io/badge/Dart-informational?style=flat&logo=dart&logoColor=5BC2F1&color=0175C2)
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=javascript&logoColor=000000&color=ffdf00)
-![](https://img.shields.io/badge/Typescript-informational?style=flat&logo=typescript&logoColor=white&color=2e79c7)
+## 🚀 About Me
 
-### Frameworks
-![Flutter](https://img.shields.io/badge/Flutter-information?style=for-the-badge&logo=flutter&logoColor=02569B&color=white)
-![React Native](https://img.shields.io/badge/React_Native-informational?logo=react&logoColor=61DAFB&style=for-the-badge&color=white)
+- I'm mobile developer.
 
-![Express](https://img.shields.io/badge/Express.JS-information?style=for-the-badge&logo=express&logoColor=02569B&color=white)
+## 🛠️ Tech Stack
 
+[![Programming languages](https://skillicons.dev/icons?i=dart,js,ts)](https://skillicons.dev)
 
+[![Frameworks](https://skillicons.dev/icons?i=flutter,react)](https://skillicons.dev)
 
-### Tools
-![VSCode logo](https://img.shields.io/badge/VS%20Code-informational?logo=visual-studio-code&logoColor=white&style=flat)
-![Android Studio](https://img.shields.io/badge/Android_Studio-informational?style=flat&logo=androidstudio&logoColor=3ddc84&color=132e3d)
-![Xcode](https://img.shields.io/badge/Xcode-informational?style=flat&logo=xcode&logoColor=white&color=176ee3)
+[![Frameworks 2](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/git-informational?logo=Git&logoColor=F05032&style=social)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,firebase,figma)](https://skillicons.dev)
 
-![Firebase](https://img.shields.io/badge/Firebase-informational?logo=firebase&logoColor=FFCA28&style=social)
+<!-- ## 🌱 Currently Exploring
 
-![Figma](https://img.shields.io/badge/Figma-informational?style=social&logo=figma&logoColor=F24E1E)
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  - Building server-side applications with Django, a powerful Python web framework.
+  - Diving into PostgreSQL for efficient and scalable database management. -->
+
+ <!-- ## 🏆 Achievements
+
+- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration. -->
 
 ## 📈 Github Stats
+
 <a href="https://github.com/thanhnv-dev" title="thanhnv-dev">
-    <img src="https://github-readme-stats.vercel.app/api?username=thanhnv-dev&show_icons=true&hide_border=true" alt="Thành Nguyễn's Github stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=thanhnv-dev&show_icons=true&hide_border=true" alt="Thanh Nguyen's Github stats" />
 </a>
 
 ## ![daily.dev](https://img.shields.io/badge/-information?style=social&logo=dailydotdev&logoColor=CE3DF3) Daily.dev
+
 <a href="https://app.daily.dev/thanhnv"><img src="https://api.daily.dev/devcards/v2/d76rcp8yobGD7bvUlOr5L.png?r=4at&type=default" width="356" alt="Thanh Nguyen's Dev Card"/></a>
+
+## 📬 Get in Touch
+
+[![gmail](https://skillicons.dev/icons?i=gmail)](mailto:thanhnv.dev.personal@gmail.com)
+
+[![gmail](https://skillicons.dev/icons?i=face)](https://www.facebook.com/thanhjang.711200)
+
+Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
