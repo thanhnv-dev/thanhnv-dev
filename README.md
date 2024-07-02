@@ -1,4 +1,4 @@
-# Hi, I'm Thanh Nguyen! 👋
+# Hi, I'm Thanh Nguyen(Brock)! 👋
 
 ## 🚀 About Me
 
