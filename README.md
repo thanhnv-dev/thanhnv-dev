@@ -33,10 +33,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=thanhnv-dev&show_icons=true&hide_border=true" alt="Thanh Nguyen's Github stats" />
 </a>
 
-## ![daily.dev](https://img.shields.io/badge/-information?style=social&logo=dailydotdev&logoColor=CE3DF3) Daily.dev
-
-<a href="https://app.daily.dev/thanhnv"><img src="https://api.daily.dev/devcards/v2/d76rcp8yobGD7bvUlOr5L.png?r=4at&type=default" width="356" alt="Thanh Nguyen's Dev Card"/></a>
-
 ## 📬 Get in Touch
 
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:thanhnv.dev.personal@gmail.com)
