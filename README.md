@@ -31,12 +31,6 @@
 
 - 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration. -->
 
-## 📈 Github Stats
-
-<a href="https://github.com/thanhnv-dev" title="thanhnv-dev">
-<img src="https://github-readme-stats.vercel.app/api?username=thanhnv-dev&show_icons=true&hide_border=true" alt="Thanh Nguyen's Github stats" />
-</a>
-
 ## 📬 Get in Touch
 
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:thanhnv.dev.personal@gmail.com)
