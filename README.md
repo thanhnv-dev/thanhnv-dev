@@ -6,13 +6,17 @@
 
 ## 🛠️ Tech Stack
 
+### Programming languages
+
 [![Programming languages](https://skillicons.dev/icons?i=dart,js,ts,swift,kotlin)](https://skillicons.dev)
 
+### Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=flutter,react&theme=light)](https://skillicons.dev)
 
 [![Frameworks 2](https://skillicons.dev/icons?i=nodejs,mongodb)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,firebase,figma&theme=light)](https://skillicons.dev)
+### Tools
+[![Tools](https://skillicons.dev/icons?i=vscode,git,firebase,postman,figma&theme=light)](https://skillicons.dev)
 
 <!-- ## 🌱 Currently Exploring
 
