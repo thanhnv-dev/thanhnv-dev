@@ -37,6 +37,4 @@
 
 [![gmail](https://skillicons.dev/icons?i=gmail)](mailto:thanhnv.dev.personal@gmail.com)
 
-[![gmail](https://skillicons.dev/icons?i=face)](https://www.facebook.com/thanhjang.711200)
-
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
